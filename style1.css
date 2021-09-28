@@ -1,0 +1,65 @@
+code 
+
+{
+
+         background: #37bcec;
+         color: #fff;
+         font-family: verdana;
+         font-size: 2rem;
+         border: 2px solid #060bfa;
+         display: block;
+         text-align: center;
+
+
+}
+
+section 
+{
+       float: left;
+       width: 30%;
+       height: 400px;
+       border: 2px solid #060bfa;
+       border-radius: 6px;
+       background-color: beige;
+
+
+
+}
+header, section
+{
+
+     margin: 0 1.5% 24px 1.5%;
+
+}
+
+footer 
+{
+
+       clear: both;
+
+
+}
+
+.p2
+{
+
+ background-color: beige;
+
+
+}
+
+.p1
+{
+
+ background-color: lightpink;
+}
+
+
+.p3
+{
+
+background-color: white;
+
+}
+
+

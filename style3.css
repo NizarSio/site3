@@ -1,0 +1,36 @@
+
+table 
+{
+
+border: 3px solid skyblue;
+background-color: beige;
+width: 60%;
+margin: auto;
+
+
+}
+
+th 
+{
+
+font-family: arial;
+font-size: 1.20em;
+background-image: url(rasengan.jpg);
+border: 1px solid white;
+padding: 5px;
+
+}
+
+td
+{
+
+font-family: arial;
+font-size: 0.80em;
+border: 1px solid white;
+padding: 5px;
+text-align: center;
+
+
+}
+
+

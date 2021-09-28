@@ -1,0 +1,29 @@
+.naruto
+{
+	border: red 2px solid ;
+	border-radius: 10px;
+       
+
+}
+
+.p1
+{
+
+   border: lightpink 2px solid;
+   border-radius: 10px;
+   background-color: beige;
+   padding: 6px;
+
+
+}
+
+.p2
+{
+
+border: lightpink 2px solid;
+border-radius: 10px;
+background-color: lightslategrey;
+padding: 6px;
+
+
+}
